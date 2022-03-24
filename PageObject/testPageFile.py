@@ -1,7 +1,6 @@
-import pytest
-from selenium import webdriver
-from seleniumpagefactory.Pagefactory import PageFactory
-import chromedriver_autoinstaller
+
+from seleniumpagefactory import PageFactory
+
 
 class LoginPage(PageFactory):
 
