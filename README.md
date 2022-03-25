@@ -5,6 +5,7 @@
 <ol>
     <li>install python3</li>
   <li>install pip if not already installed </li>
+  <li>Create a python project in ide</li>
 </ol>
 
 <h3>Getting the project</h3>
